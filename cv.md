@@ -1,37 +1,37 @@
-###rsschool-cv
+### rsschool-cv
 
 ---
 
-####Sergey Telnov
+#### Sergey Telnov
 
 ---
 
-#####Contact:
+##### Contact:
 
-_######Email: s.telnov@mail.ru
-_######Phone: +7-999-99-99
-\*######Telegram: @SergeyTelnov
+- ###### Email: s.telnov@mail.ru
+- ###### Phone: +7-999-99-99
+- ###### Telegram: @SergeyTelnov
 
 ---
 
-#####About Me:
+##### About Me:
 
 I am a beginner frontend developer, I studied on my own, I really like this profession, I plan to become a senoir developer
 
 ---
 
-#####Skils:
+##### Skils:
 
-*HTML
-*CSS
-*JS
-*React
-*Redux
-*Git
+- HTML
+- CSS
+- JS
+- React
+- Redux
+- Git
 
 ---
 
-#####Code Example:
+##### Code Example:
 
 ```
 
@@ -43,15 +43,15 @@ function multiply(a, b){
 
 ---
 
-#####Experience:
+##### Experience:
 
 ---
 
-#####Education:
+##### Education:
 
 ---
 
-#####Languages:
+##### Languages:
 
-*English - Pre-Intermediate
-*Russian - Native
+- English - Pre-Intermediate
+- Russian - Native
