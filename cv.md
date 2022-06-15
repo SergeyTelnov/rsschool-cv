@@ -53,5 +53,5 @@ function multiply(a, b){
 
 #####Languages:
 
-*Russian - Native
 *English - Pre-Intermediate
+*Russian - Native
