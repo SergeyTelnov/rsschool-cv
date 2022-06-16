@@ -16,7 +16,7 @@
 
 ##### About Me:
 
-I am a beginner frontend developer, I studied on my own, I really like this profession, I plan to become a senoir developer
+I am a beginner frontend developer, I studied on my own, I really like this profession, I plan to become a senior developer
 
 ---
 
